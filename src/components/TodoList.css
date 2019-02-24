@@ -1,0 +1,12 @@
+.TodoList {
+    background-color: lavender;
+    color: #222;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+}
+li:hover {
+  background-color: white;
+}
