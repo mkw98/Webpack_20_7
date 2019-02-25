@@ -7,6 +7,25 @@
     justify-content: center;
     align-content: center;
 }
-li:hover {
+.taskOnList:hover {
   background-color: white;
+}
+
+.addButton {
+    background-color: green;
+    border: 0;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.clearButton {
+    margin-right: 5px;
+    border-radius: 3px;
+    border: none;
+    background-color: red;
+    font-weight: bold;
+    color: #fff;
+    padding: 5px;
 }
